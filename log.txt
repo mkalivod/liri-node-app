@@ -1,0 +1,56 @@
+Please pass in a valid LIRI command type...
+Ex: "my-tweets", "spotify-this-song", "movie-this", or "do-what-it-says"
+
+
+node liri.js twitter
+node liri.js my-tweets
+Tweet 1: 
+liri-node-app Please work.
+Tweet 2: 
+Hello Twitter! #myfirstTweet
+
+
+node liri.js spotify-this-song
+Track Name: Don't Stop Believing
+Artist Name(s): Anthem Lights
+Album Name: Covers Part IV
+Preview Song URL: https://p.scdn.co/mp3-preview/2c64ec96acf7c105c15fb1cbfa930f977cc49f03?cid=e5be2a36df06459295ebc85af86c3c2c
+
+
+node liri.js spotify-this-song
+Track Name: Don't Stop Believing
+Artist Name(s): Anthem Lights
+Album Name: Covers Part IV
+Preview Song URL: https://p.scdn.co/mp3-preview/2c64ec96acf7c105c15fb1cbfa930f977cc49f03?cid=e5be2a36df06459295ebc85af86c3c2c
+
+
+node liri.js spotify-this-song Hells Bells
+Track Name: Hells Bells
+Artist Name(s): AC/DC
+Album Name: Back In Black
+Preview Song URL: https://p.scdn.co/mp3-preview/63c396837c1738dd17a7a2b055a4981dce74f46f?cid=e5be2a36df06459295ebc85af86c3c2c
+
+
+node liri.js spotify-this-song
+Track Name: Don't Stop Believing
+Artist Name(s): Anthem Lights
+Album Name: Covers Part IV
+Preview Song URL: https://p.scdn.co/mp3-preview/2c64ec96acf7c105c15fb1cbfa930f977cc49f03?cid=e5be2a36df06459295ebc85af86c3c2c
+
+
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this
+node liri.js movie-this

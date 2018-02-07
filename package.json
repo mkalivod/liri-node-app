@@ -1,0 +1,11 @@
+{
+  "name": "liriTwo",
+  "version": "^1.0.0",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "require": "^2.4.20",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
